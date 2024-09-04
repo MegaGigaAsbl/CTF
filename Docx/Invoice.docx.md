@@ -1,15 +1,15 @@
 # Challenge: Docx
 
-## Files
+### Files
 
   * Invoice.docx
 
-## Description
+### Description
 
 This challenge contains 1 flags that you have to find.
 
 The flag is of the format MeGaGiGa{...} where the dots are a readable text.
 
-## Hints
+### Hints
 
   1. You should read https://docs.fileformat.com/word-processing/docx/
