@@ -1,5 +1,3 @@
-# MegaGiga ASBL CTF challenge
-
 # Painting
 
 ## Files
