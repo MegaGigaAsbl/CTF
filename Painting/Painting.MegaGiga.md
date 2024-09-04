@@ -1,4 +1,4 @@
-# Painting
+# Challenge: Painting
 
 ## Files
 
