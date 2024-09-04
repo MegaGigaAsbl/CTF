@@ -1,16 +1,16 @@
 # Challenge: Painting
 
-## Files
+### Files
 
   * Painting.MegaGiga
 
-## Description
+### Description
 
 This challenge contains 3 flags that you have to find.
 
 Each flag is of the format MeGaGiGa{thi5_i5_a_f1ag_........} where each dot is a letter or a number.
 
-## Hints
+### Hints
 
   1. White is not always white
   2. Do you know what exif data is?
