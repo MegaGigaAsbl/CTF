@@ -8,7 +8,7 @@
 
 This challenge contains 3 flags that you have to find.
 
-Each flag is of the format MeGaGiGa{thi5_i5_a_f1ag_........} where each dot is a letter or a number.
+Each flag is of the format MegaGiga{thi5_i5_a_f1ag_........} where each dot is a letter or a number.
 
 ### Hints
 
