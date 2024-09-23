@@ -8,7 +8,7 @@
 
 This challenge contains 1 flags that you have to find.
 
-The flag is of the format MeGaGiGa{...} where the dots are a readable text.
+The flag is of the format MegaGiga{...} where the dots are a readable text.
 
 ### Hints
 
